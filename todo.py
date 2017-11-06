@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# TODO: Colocar pra salvar os todos no Desktop
 # Command line tool for creating TODOs
 #
 # usage: todo.py [-h] [-m] [-p {1,2,3}] title
